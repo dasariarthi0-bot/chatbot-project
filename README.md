@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Chatbot Project
 
 ## Overview
@@ -28,3 +29,7 @@ pip install -r requirements.txt
 
 ## How to Run
 python chatbot.py
+=======
+# chatbot-project
+it is a medical chatbot that will provide quick answer to FAQs by setting up rule-based keyword chatbot
+>>>>>>> 8099ada1ff6e56d5f0cd070ee87106c63e62b123
