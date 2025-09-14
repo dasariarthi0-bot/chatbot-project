@@ -1,0 +1,96 @@
+bot started chat with user
+
+You: hello
+Bot: Hi there. How are you feeling today?
+
+You: good evening 
+Bot: Good evening. How has your day been?
+
+You: i feel down
+Bot: I'm sorry to hear that. I'm here for you. Talking about it might help. So, tell me why do you think you're feeling this way?
+
+You: i am so stressed out
+Bot: Take a deep breath and gather your thoughts. Go take a walk if possible. Stay hydrated
+
+You: i feel so worthless no one likes me
+Bot: Let's discuss further why you're feeling this way.
+
+You: i can't take it anymore i am so depressed 
+Bot: Talk to me. Tell me more. It helps if you open up yourself to someone else.
+
+You: yeah
+Bot: Let's discuss further why you're feeling this way.
+
+You: i feel so anxious
+Bot: Don't be hard on yourself. What's the reason behind this?
+
+You: i haven't sleep for few days
+Bot: What do you think is the reason behind this?
+
+You: i want to kill myself
+Bot: I'm very sorry to hear that but you have so much to look forward to. Please seek help by contacting: 9152987821.
+
+You: i hate my self
+Bot: Forgive me if i did anything to offend you. I only want to help
+
+You: you hate me
+Bot: Why do you think so?
+
+You: i dont have any friends
+Bot: I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?
+
+You: yes
+Bot: Tell me more
+
+You: can i ask you something
+Bot: Sure. I'll try my best to answer you
+
+You: tell me facts about mental health
+Bot: 1 in 5 young people (age 13-18) has or will develop a mental illness in their lifetime.
+
+You: what is mental health?
+Bot: Mental health is a state of well-being in which the individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community
+
+You: why mental health important?
+Bot: Maintaining mental health is crucial to stabilizing constructive behaviors, emotions, and thoughts. Focusing on mental health care can increase productivity, enhance our self-image, and improve relationships.
+
+You: what is depression?
+Bot: A mental health disorder characterised by persistently depressed mood or loss of interest in activities, causing significant impairment in daily life.
+
+You: how do i know if i have depression?
+Bot: For a diagnosis of depression, a person needs to have experienced low mood or loss of interest or pleasure in life for at least 2 weeks. Also, they will have experienced the following symptoms: feelings of sadness, hopelessness, or irritability nearly every day.
+
+You: what is a therapist?
+Bot: A therapist is a broad designation that refers to professionals who are trained to provide treatment and rehabilitation. The term is often applied to psychologists, but it can include others who provide a variety of services, including social workers, counselors, life coaches, and many others.
+
+You: what is therapy?
+Bot: Therapy is a form of treatment that aims to help resolve mental or emotional issues. It is helpful for those with mental health conditions or even everyday life challenges.
+
+You: what does it mean to have a mental illness?
+Bot: Mental illnesses are health conditions that disrupt a person's thoughts, emotions, relationships, and daily functioning. They are associated with distress and diminished capacity to engage in the ordinary activities of daily life. Mental illnesses fall along a continuum of severity: some are fairly mild and only interfere with some aspects of life, such as certain phobias. On the other end of the spectrum lie serious mental illnesses, which result in major functional impairment and interference with daily life. These include such disorders as major depression, schizophrenia, and bipolar disorder, and may require that the person receives care in a hospital. It is important to know that mental illnesses are medical conditions that have nothing to do with a person's character, intelligence, or willpower. Just as diabetes is a disorder of the pancreas, mental illness is a medical condition due to the brain's biology. Similarly to how one would treat diabetes with medication and insulin, mental illness is treatable with a combination of medication and social support. These treatments are highly effective, with 70-90 percent of individuals receiving treatment experiencing a reduction in symptoms and an improved quality of life. With the proper treatment, it is very possible for a person with mental illness to be independent and successful.
+
+You: who does mental illness affect?
+Bot: It is estimated that mental illness affects 1 in 5 adults in America, and that 1 in 24 adults have a serious mental illness. Mental illness does not discriminate; it can affect anyone, regardless of gender, age, income, social status, ethnicity, religion, sexual orientation, or background. Although mental illness can affect anyone, certain conditions may be more common in different populations. For instance, eating disorders tend to occur more often in females, while disorders such as attention deficit/hyperactivity disorder is more prevalent in children. Additionally, all ages are susceptible, but the young and the old are especially vulnerable. Mental illnesses usually strike individuals in the prime of their lives, with 75 percent of mental health conditions developing by the age of 24. This makes identification and treatment of mental disorders particularly difficult, because the normal personality and behavioral changes of adolescence may mask symptoms of a mental health condition. Parents and caretakers should be aware of this fact, and take notice of changes in their childÃƒÂ¢Ã¢â€šÂ¬Ã¢â€žÂ¢s mood, personality, personal habits, and social withdrawal. When these occur in children under 18, they are referred to as serious emotional disturbances (SEDs).
+
+You: how can i find a mental health professional for myself   
+Bot: Feeling comfortable with the professional you or your child is working with is critical to the success of the treatment. Finding the professional who best fits your needs may require research. Start by searching for providers in your area.
+
+You: where can i go to find therapy
+Bot: Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in childrenÃ¢â‚¬â„¢s mental health). However, there are several different types of treatment and therapy that can help.
+
+You: what medicines can i buy to help me with asthma
+Bot: medicines you can consume : epinephrine,anticholinergic,Proair HFA, prevention that you must follow : Identify Asthma Triggers, Stay Away From Allergens,Avoid Smoke of Any Type,SUGGESTED FOODS ARE:carrots,juice,eggs,broccoli,cantaloupe,milk
+
+You: diabetes preventation
+Bot: medicines you can consume : Insulin ,Amylinomimetic drug,Dipeptidyl peptidase-4 (DPP-4) inhibitor, prevention that you must follow :Cut Sugar and Refined Carbs From Your Diet,Work Out Regularly,Drink Water as Your Primary Beverage,Lose Weight If Youâ€™re Overweight or Obese,Quit Smoking, Follow a Very-Low-Carb Diet,Watch Portion Sizes,SUGGESTED FOODS ARE:Leafy greens,Avocados,Eggs
+
+You: who should i contact for consultation?
+Bot: You can contact various doctors here for any kind of consultation: 1. https://www.1mg.com/online-doctor-consultation, 2. https://www.tatahealth.com/online-doctor-consultation/general-physician, 3. https://www.doconline.com/, or you can pay a visit to your local area doctor or family doctor.
+
+You: bye
+Bot: I'll see you soon.
+
+You: quit
+Bot: Goodbye! 
+
+bot ended chat with user
